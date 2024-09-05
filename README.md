@@ -30,20 +30,23 @@
 
 ---
 
-### Data Management Services for UK Hospital Professionals
+### Data Management Services for UK Healthcare Staffing Agency
 
 **Role:** Senior Software Engineer  
 **Timeline:** 18/04/2022 - 31/03/2023  
-**Objective:** Modernized data management and reporting systems for a healthcare staffing agency, optimizing operational efficiency and data accessibility.  
-**Technologies:** SQL Server, MySQL, Data Warehouse/ETL, SSIS, Power BI, Azure DevOps, Azure SQL Database  
+**Objective:** Enhanced data management and reporting systems for a healthcare staffing agency, optimizing operational efficiency, data accessibility, and system reliability.  
+**Technologies:** SQL Server, MySQL, Data Warehouse/ETL, SSIS, Power BI, Azure DevOps, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Gen2, Azure Databricks
 
 **Key Achievements:**
-- Developed advanced ETL processes using SSIS and SQL Server, improving data accuracy and processing efficiency.
-- Built Power BI dashboards that provided real-time insights into staffing operations, improving decision-making.
-- Implemented data security measures, including Azure DevOps integration for CI/CD pipelines, ensuring compliance with regulatory standards.
-- Collaborated closely with business stakeholders to tailor data solutions that aligned with their operational needs.
+- Developed and optimized advanced ETL processes using SSIS and SQL Server, resulting in improved data accuracy and processing efficiency.
+- Created Power BI dashboards that delivered real-time insights into staffing operations, facilitating better decision-making.
+- Integrated Azure DevOps for CI/CD pipelines, enhancing data security and ensuring compliance with regulatory standards.
+- Worked closely with stakeholders to design and implement tailored data solutions that aligned with business needs.
+- Maintained and optimized the primary data warehouse, resolving live issues and ensuring uninterrupted operations.
+- Led the migration of the data warehouse from an on-premise setup to the Azure Cloud platform, enhancing security, reducing server overload, and improving system availability during outages.
+- Transitioned the traditional data warehouse to a dynamic data lakehouse using Azure SQL Database, Azure Synapse Analytics, and Azure Data Lake Gen2.
+- Utilized Azure Databricks for complex data transformations, significantly improving processing speed and efficiency.
 
----
 
 ### International Education Data Platform Modernization
 
