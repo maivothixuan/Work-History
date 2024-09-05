@@ -109,3 +109,57 @@ Key Achievements:
 
 Developed ERP Modules: Designed and customized ERP modules to meet the unique needs of the school, improving administrative efficiency and data management.
 Conducted Fit-Gap Analysis: Performed in-depth analysis to align the ERP system with the school's requirements, ensuring a successful implementation.
+
+Project: Building Hoa Sen University ERP System with Oracle Enterprise Campus Solution 9.0
+Duration: Oct 2010 - Sep 2013
+Size: 620 days
+Project Description: Conducted fit-gap analysis, deployment, and development of add-in functionalities for the Hoa Sen Campus solution. Focused on student and instructor management, including Student Enrollment, Student Planner, and Batch Term Activation. The project connected all 5 remote HSU campuses via an enterprise management portal, enabling instructors, operational departments, managing boards, and students to access and process various business procedures.
+Technology Stack: Oracle Peoplesoft Enterprise 9.1, Oracle Web Logic, Oracle PeopleTools 8.51, Oracle Application Designer, Data Mover
+Position: Business Analyst, Functional Administrator, Database Developer
+Responsibilities:
+Defined and assigned tasks for BA project group members
+Managed the quality of deliverables from team members
+Conducted stakeholder interviews to gather requirements
+Analyzed business rules and processes
+Designed interfaces and developed the database
+Wrote SQL scripts and built BI Publisher reports
+Provided client support and system assistance
+Conducted final QA of software deliveries
+Project: Hyundai Customer Relationship Management
+Duration: Sep 2007 - Jan 2008
+Size: 110 days
+Project Description: Developed a CRM web application for Hyundai Corporation to manage customers, prospects, leads, accounts, opportunities, and cases.
+Technology Stack: Structure Analysis (Merise: DFD, ERD), MS Visio, ASP.NET, MySQL, HTML, CSS, Photoshop
+Position: Business Analyst
+Responsibilities:
+Conducted customer interviews to gather requirements
+Analyzed business rules and processes
+Designed interfaces and databases
+Provided client support and system assistance
+Conducted final QA of software deliveries
+Project: Hoang Linh Real Estate Management
+Duration: Feb 2007 - Dec 2007
+Size: 242 days
+Project Description: Developed a web application for Hoang Linh to manage property and land information, functioning as a real estate stock exchange, providing visual interface updates.
+Technology Stack: Structured Analysis (Merise: DFD, ERD), MS Visio, Java, JSP, Servlet, Bean, iReport, MySQL
+Position: Business Analysis Team Leader
+Responsibilities:
+Defined and assigned tasks for BA project group members
+Managed the quality of team deliverables
+Conducted customer interviews to gather requirements
+Analyzed business rules and processes
+Designed interfaces and databases
+Provided client support and system assistance
+Conducted final QA of software deliveries
+Project: Fournier Doctor Information System
+Duration: Mar 2007 - Jun 2007
+Size: 70 days
+Project Description: Developed a WinForms application to manage patient and doctor information.
+Technology Stack: UML, C#, MySQL
+Position: Business Analyst
+Responsibilities:
+Conducted customer interviews to gather requirements
+Analyzed business rules and processes
+Designed interfaces and databases
+Provided client support and system assistance
+Conducted final QA of software deliveries
