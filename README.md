@@ -1,165 +1,254 @@
-Scalable Data Solutions for Retail Food Group's Growth
-Role: Data Engineer, Database Designer, Report Modeler
-Timeframe: 01/2022 - 06/2023
-Objective: Modernized the data architecture of Retail Food Group to support rapid business growth across the Southeast Asia region.
-Technologies: Microsoft Azure (Data Lake, Azure SQL, Data Factory), Databricks, Python, SQL, Power BI, Meta Base
+### Scalable Data Solutions for Retail Food Group's Growth
 
-Key Achievements:
+**Role:** Data Engineer, Database Designer, Report Modeler  
+**Timeline:** 10/2023- 06/2024
+**Objective:** Modernized Retail Food Group’s data architecture to support rapid business growth across Southeast Asia Region.  
+**Technologies:** Microsoft Azure (Data Lake, Azure SQL, Data Factory), Databricks, Python, SQL, Power BI, Metabase  
 
-Architected a Scalable Data Warehouse: Designed and implemented a scalable data warehouse that integrated data from on-premise, cloud, and online sources into a unified architecture, resulting in a data ecosystem with over 900 tables.
-Streamlined Data Pipelines: Developed efficient ETL pipelines using Python and Azure Data Factory for data ingestion, transformation, and cleansing, ensuring high data accuracy and consistency.
-Enabled Self-Service BI: Built and optimized Power BI data models and dashboards, empowering 300+ users across the organization to access and analyze data independently.
-Enhanced Data Security: Implemented advanced security measures, including row-level security and encryption in Azure SQL Database, to protect sensitive business data.
-Centralized Operations and Monitoring: Improved operational efficiency by centralizing data processes and monitoring, reducing manual intervention and minimizing downtime.
+**Key Achievements:**
+- Designed and implemented a scalable data warehouse and database model, integrating data from on-premise, cloud, and online sources into a unified data architecture with 900+ tables.
+- Built ETL pipelines for data ingestion, transformation, and cleansing using Python and Azure Data Factory.
+- Developed and optimized Power BI data models and dashboards, enabling self-service BI for 300+ users.
+- Enhanced data security through advanced measures (row-level security, encryption) in Azure SQL Database.
+- Centralized operations and monitoring, improving efficiency and reducing manual intervention.
 
+---
 
-UK Supply Chain Data Migration and Reporting Initiative
-Role: Senior Software Engineer (Data Engineer & BI Developer)
-Timeframe: 01/2023 - 08/2023
-Objective: Enhanced data accessibility and performance for real-time decision-making in the UK Supply Chain by implementing a robust data migration and reporting system.
-Technologies: Databricks, Azure SQL Server, Power BI, Python, SQL
+### UK Supply Chain Data Migration and Reporting Initiative
 
-Key Achievements:
+**Role:** Senior Software Engineer (Data Engineer & BI Developer)  
+**Timeline:** 01/06/2023 - 31/08/2023  
+**Objective:** Enhanced data accessibility and performance for real-time decision-making in the UK Supply Chain by implementing a robust data migration and reporting system.  
+**Technologies:** Databricks, Azure SQL Server, Power BI, Python, SQL  
 
-Optimized ETL Processes: Developed and refined ETL pipelines using Databricks, significantly improving the efficiency of data extraction, transformation, and loading into Azure SQL Server.
-Boosted Data Model Performance: Designed and implemented star and snowflake schemas, which enhanced query performance and reduced latency in Power BI reports.
-Enabled Real-Time Reporting: Implemented incremental refresh and real-time data streaming solutions, facilitating near real-time data updates and improving the efficiency of decision-making processes.
-Strengthened Security and Access Control: Applied row-level security and integrated Azure Active Directory, ensuring robust data protection and controlled user access.
-Accelerated Report Delivery: Streamlined Power BI reports for faster data retrieval, aligning with the client's need for real-time insights and enhancing overall decision-making capabilities.
+**Key Achievements:**
+- Optimized ETL processes, ensuring efficient data extraction, transformation, and loading into Azure SQL Server.
+- Designed and implemented efficient star and snowflake schemas, significantly boosting query performance and reducing report latency in Power BI.
+- Implemented incremental refresh and real-time data streaming solutions, enabling near real-time data updates.
+- Applied row-level security and Azure Active Directory for robust data protection and controlled access.
+- Streamlined Power BI reports for faster data retrieval, enhancing decision-making capabilities.
 
-Data Management Services for UK Hospital Professionals
-Role: Senior Software Engineer
-Timeframe: 04/2022 - 03/2023
-Objective: Supported a healthcare staffing agency by enhancing their data management capabilities, enabling efficient workforce management and cost-effective staffing solutions.
-Technologies: SQL Server, MySQL, Data Warehouse/ETL, SQL Server Integration Services (SSIS), Power BI, Azure DevOps, Azure SQL Database
+---
 
-Key Achievements:
+### Data Management Services for UK Hospital Professionals
 
-Modernized Data Infrastructure: Led the enhancement of the data warehouse, integrating data from multiple sources and ensuring accurate and up-to-date information for healthcare staffing needs.
-Improved Decision-Making: Developed Power BI reports that provided actionable insights into staffing trends, helping to reduce costs and optimize workforce management.
-Streamlined ETL Processes: Built and optimized ETL processes with SSIS, improving data reliability and reducing manual intervention in data management tasks.
-International Education Data Platform Modernization
-Role: Senior Software Engineer
-Timeframe: 03/2021 - 04/2022
-Objective: Assisted a leading international education provider in modernizing their data platform to support innovative digital learning initiatives across multiple regions.
-Technologies: Azure Data Architect, Azure SQL, Azure Databricks, Azure Data Factory, Data Warehouse/ETL, Azure Analysis Services, Power BI
+**Role:** Senior Software Engineer  
+**Timeline:** 18/04/2022 - 31/03/2023  
+**Objective:** Modernized data management and reporting systems for a healthcare staffing agency, optimizing operational efficiency and data accessibility.  
+**Technologies:** SQL Server, MySQL, Data Warehouse/ETL, SSIS, Power BI, Azure DevOps, Azure SQL Database  
 
-Key Achievements:
+**Key Achievements:**
+- Developed advanced ETL processes using SSIS and SQL Server, improving data accuracy and processing efficiency.
+- Built Power BI dashboards that provided real-time insights into staffing operations, improving decision-making.
+- Implemented data security measures, including Azure DevOps integration for CI/CD pipelines, ensuring compliance with regulatory standards.
+- Collaborated closely with business stakeholders to tailor data solutions that aligned with their operational needs.
 
-Led Data Platform Modernization: Architected and implemented a modern data platform that integrated educational data from various sources, supporting real-time analytics and reporting for university stakeholders.
-Enabled Advanced Analytics: Developed Power BI models and dashboards that provided deep insights into student performance and educational trends, driving strategic decision-making.
-Enhanced Data Quality: Streamlined ETL processes to ensure high data quality and consistency across all regions, improving the reliability of analytics.
-H2 Media Finance System
-Role: Senior Software Engineer
-Timeframe: 04/2019 - 12/2020
-Objective: Developed a comprehensive finance management system for a media company, enabling efficient campaign management, cost estimation, and financial tracking across the APAC region.
-Technologies: SQL Server, SSIS
+---
 
-Key Achievements:
+### International Education Data Platform Modernization
 
-Built Finance Management System: Developed a robust system to manage media campaigns, track costs, and handle financial operations, improving the accuracy of financial reporting and reducing operational costs.
-Automated Financial Processes: Implemented automation in payment tracking and billing, reducing manual workload and improving financial accuracy.
-BlueScope Steel Data Warehouse Rebuild
-Role: Senior Software Engineer
-Timeframe: 12/2016 - 11/2018
-Objective: Rebuilt the data warehouse and reporting system for BlueScope Steel, enabling efficient data management and reporting for business operations.
-Technologies: Data Warehouse, SQL Server, Power BI
+**Role:** Senior Software Engineer  
+**Timeline:** 05/03/2021 - 15/04/2022  
+**Objective:** Partnered with a leading international education provider to modernize their data platform and support global operations.  
+**Technologies:** Azure Data Architect, Azure SQL, Azure Databricks, Azure Data Factory, Data Warehouse/ETL, Azure Analysis Services, Power BI  
 
-Key Achievements:
+**Key Achievements:**
+- Led the design and implementation of a modern data architecture, integrating data from multiple sources to support international operations.
+- Built scalable ETL pipelines to streamline data processing and ensure data accuracy.
+- Developed advanced Power BI reports and models that provided actionable insights, driving strategic decision-making across the organization.
+- Supported the migration of legacy systems to the Azure platform, enhancing data accessibility and performance.
 
-Rebuilt Data Warehouse: Led the reconstruction of the data warehouse, ensuring data integrity and improving the performance of data retrieval processes.
-Enhanced Reporting System: Developed data marts and optimized reporting systems, enabling faster access to critical business data and improving decision-making processes.
-HR Analytics for Harvey Nash
-Role: Developer
-Timeframe: 01/2016 - 06/2016
-Objective: Supported Harvey Nash's HR department by implementing analytics solutions to manage the rapid growth and recruitment needs of the organization.
-Technologies: MSSQL 2012, Power BI, SSAS
+---
 
-Key Achievements:
+### H2 Media Finance System
 
-Implemented HR Analytics: Developed Power BI dashboards that provided insights into HR trends, supporting strategic workforce planning and recruitment initiatives.
-Streamlined HR Processes: Automated HR data processes, reducing manual intervention and improving data accuracy.
-MediaBrands BAU Support
-Role: Senior Software Engineer
-Timeframe: 07/2015 - 11/2015
-Objective: Provided support and enhancements for MediaBrands' media platforms across the APAC region, ensuring smooth operations and system performance.
-Technologies: .NET, SQL Server
+**Role:** Senior Software Engineer  
+**Timeline:** 15/04/2019 - 31/12/2020  
+**Objective:** Managed the development and deployment of a finance system for a leading media company, streamlining financial operations across the APAC region.  
+**Technologies:** SQL Server, SSIS  
 
-Key Achievements:
+**Key Achievements:**
+- Built a comprehensive data warehouse to support financial reporting and analysis.
+- Developed ETL processes that integrated financial data from various sources, ensuring data consistency and accuracy.
+- Implemented reporting solutions that provided real-time insights into financial performance, improving decision-making.
+- Collaborated with stakeholders to refine financial models and reporting standards, aligning them with business goals.
 
-Enhanced Media Platforms: Developed and customized media platforms to meet the specific needs of APAC markets, improving user experience and system performance.
-Provided BAU Support: Delivered L1/2/3 support, ensuring uninterrupted operations across multiple countries.
-US OMG Business Intelligence Project
-Role: Senior Software Engineer
-Timeframe: 11/2014 - 06/2015
-Objective: Developed a business intelligence solution to aggregate and analyze media data for customized reporting, supporting business decisions in the US market.
-Technologies: MS SQL/SSIS, .Net, VBA, QlikView
+---
 
-Key Achievements:
+### Blue Scope Steel Data Warehouse and Reporting System
 
-Built BI Solution: Developed a business intelligence system that harmonized and processed media data, enabling customized reporting for business users.
-Optimized Data Processes: Improved data aggregation and cleansing processes, ensuring accurate and timely data for decision-making.
-Sri KDU School ERP System
-Role: Database Developer, Techno-Functional Team Leader
-Timeframe: 05/2014 - 09/2014
-Objective: Designed and implemented ERP modules for a Malaysian international school, covering academic structure, financials, and student management.
-Technologies: Oracle PeopleSoft, Oracle WebLogic, Oracle Tools
+**Role:** Senior Software Engineer  
+**Timeline:** 01/12/2016 - 08/11/2018  
+**Objective:** Rebuilt the data warehouse and reporting system for Blue Scope Steel, improving data management and operational efficiency.  
+**Technologies:** Data Warehouse, Power BI, SQL Server  
 
-Key Achievements:
+**Key Achievements:**
+- Led the redesign of the data warehouse, enhancing data accessibility and performance.
+- Developed and optimized Power BI reports that provided actionable insights into business operations.
+- Improved data integration processes, ensuring timely and accurate data updates across the organization.
+- Collaborated with business stakeholders to ensure the new system met operational needs and supported strategic goals.
 
-Developed ERP Modules: Designed and customized ERP modules to meet the unique needs of the school, improving administrative efficiency and data management.
-Conducted Fit-Gap Analysis: Performed in-depth analysis to align the ERP system with the school's requirements, ensuring a successful implementation.
+---
 
-Project: Building Hoa Sen University ERP System with Oracle Enterprise Campus Solution 9.0
-Duration: Oct 2010 - Sep 2013
-Size: 620 days
-Project Description: Conducted fit-gap analysis, deployment, and development of add-in functionalities for the Hoa Sen Campus solution. Focused on student and instructor management, including Student Enrollment, Student Planner, and Batch Term Activation. The project connected all 5 remote HSU campuses via an enterprise management portal, enabling instructors, operational departments, managing boards, and students to access and process various business procedures.
-Technology Stack: Oracle Peoplesoft Enterprise 9.1, Oracle Web Logic, Oracle PeopleTools 8.51, Oracle Application Designer, Data Mover
-Position: Business Analyst, Functional Administrator, Database Developer
-Responsibilities:
-Defined and assigned tasks for BA project group members
-Managed the quality of deliverables from team members
-Conducted stakeholder interviews to gather requirements
-Analyzed business rules and processes
-Designed interfaces and developed the database
-Wrote SQL scripts and built BI Publisher reports
-Provided client support and system assistance
-Conducted final QA of software deliveries
-Project: Hyundai Customer Relationship Management
-Duration: Sep 2007 - Jan 2008
-Size: 110 days
-Project Description: Developed a CRM web application for Hyundai Corporation to manage customers, prospects, leads, accounts, opportunities, and cases.
-Technology Stack: Structure Analysis (Merise: DFD, ERD), MS Visio, ASP.NET, MySQL, HTML, CSS, Photoshop
-Position: Business Analyst
-Responsibilities:
-Conducted customer interviews to gather requirements
-Analyzed business rules and processes
-Designed interfaces and databases
-Provided client support and system assistance
-Conducted final QA of software deliveries
-Project: Hoang Linh Real Estate Management
-Duration: Feb 2007 - Dec 2007
-Size: 242 days
-Project Description: Developed a web application for Hoang Linh to manage property and land information, functioning as a real estate stock exchange, providing visual interface updates.
-Technology Stack: Structured Analysis (Merise: DFD, ERD), MS Visio, Java, JSP, Servlet, Bean, iReport, MySQL
-Position: Business Analysis Team Leader
-Responsibilities:
-Defined and assigned tasks for BA project group members
-Managed the quality of team deliverables
-Conducted customer interviews to gather requirements
-Analyzed business rules and processes
-Designed interfaces and databases
-Provided client support and system assistance
-Conducted final QA of software deliveries
-Project: Fournier Doctor Information System
-Duration: Mar 2007 - Jun 2007
-Size: 70 days
-Project Description: Developed a WinForms application to manage patient and doctor information.
-Technology Stack: UML, C#, MySQL
-Position: Business Analyst
-Responsibilities:
-Conducted customer interviews to gather requirements
-Analyzed business rules and processes
-Designed interfaces and databases
-Provided client support and system assistance
-Conducted final QA of software deliveries
+### HR Analytics for Harvey Nash
+
+**Role:** Developer  
+**Timeline:** 01/2016 - 06/2016  
+**Objective:** Developed a data infrastructure for HR analytics to support Harvey Nash’s rapid growth and HR decision-making.  
+**Technologies:** MSSQL 2012, Power BI, SSAS  
+
+**Key Achievements:**
+- Built a robust data model to support HR analytics, providing insights into workforce trends and recruitment needs.
+- Developed Power BI dashboards that allowed HR teams to track key metrics and make data-driven decisions.
+- Collaborated with HR stakeholders to refine reporting requirements and ensure alignment with business goals.
+
+---
+
+### MediaBrands APAC BAU Support
+
+**Role:** Senior Software Engineer  
+**Timeline:** 28/07/2015 - 03/11/2015  
+**Objective:** Provided ongoing support and enhancements for MediaBrands' media platforms across the APAC region.  
+**Technologies:** .NET Application, ASP MVC, SQL Server  
+
+**Key Achievements:**
+- Provided L1/2/3 support to MediaBrands' agency users, ensuring smooth operation of media platforms across 9 APAC countries.
+- Developed and deployed platform enhancements, improving functionality and user experience.
+- Collaborated with stakeholders to customize the platform for specific market needs, ensuring alignment with business goals.
+
+---
+
+### US_OMG Project
+
+**Role:** Senior Software Engineer  
+**Timeline:** 03/11/2014 - 30/06/2015  
+**Objective:** Built a business intelligence system to support media business users in making informed decisions.  
+**Technologies:** MS SQL, SSIS, .NET, QlikView  
+
+**Key Achievements:**
+- Developed ETL processes to integrate data from various media sources, ensuring data accuracy and consistency.
+- Built QlikView reports that provided insights into media operations, supporting data-driven decision-making.
+- Collaborated with stakeholders to refine reporting requirements and ensure the system met business needs.
+
+---
+
+### Sri KDU School ERP System, Malaysia
+
+**Role:** Database Developer, Techno-Functional Team Leader  
+**Timeline:** 05/2014 - 09/2014  
+**Objective:** Designed and developed necessary modules for the Sri KDU School ERP system to enhance academic and administrative operations.  
+**Technologies:** Oracle PeopleSoft Enterprise, Oracle Web Logic Application Server  
+
+**Key Achievements:**
+- Led the design and customization of key ERP modules, including Academic Structure, Financial Aid, and Student Records.
+- Developed and implemented fit-gap analysis, ensuring the system met the school’s specific requirements.
+- Collaborated with stakeholders to refine system functionality, aligning it with academic and administrative goals.
+
+---
+
+### Freshers Training Program for Global Cyber Softs
+
+**Role:** Mentor/Trainer, Database Developer, Business Analyst  
+**Timeline:** 03/2012 - 09/2013  
+**Objective:** Trained new employees in software development processes and technologies to ensure they were equipped to contribute effectively to the organization.  
+**Technologies:** MS Visual Studio, NetBeans IDE, MSSQL Server  
+
+**Key Achievements:**
+- Developed a comprehensive training program that covered software development processes, tools, and methodologies.
+- Mentored new employees, helping them quickly adapt to the company’s technologies and workflows.
+- Provided hands-on training in database development and business analysis, ensuring trainees were prepared for real-world projects.
+
+---
+
+### Building Hoa Sen University ERP System
+
+**Role:** Business Analyst, Functional Administrator, Database Developer  
+**Timeline:** 10/2010 - 09/2013  
+**Objective:** Deployed and developed add-in functionalities for Hoa Sen University’s Campus Solution, focusing on student and instructor management.  
+**Technologies:** Oracle PeopleSoft Enterprise, Oracle Web Logic Application Server  
+
+**Key Achievements:**
+- Conducted fit-gap analysis to identify system requirements and align them with the university’s needs.
+- Developed and deployed key functionalities, improving student and instructor management processes.
+- Collaborated with stakeholders to ensure the system met operational requirements and supported academic goals.
+
+---
+
+### Hyundai Customer Relationship Management System
+
+**Role:** Business Analyst  
+**Timeline:** 09/2007 - 01/2008  
+**Objective:** Developed a CRM system for Hyundai Corporation to manage customer interactions and improve business processes.  
+**Technologies:** ASP.NET, MySQL, MS Visio  
+
+**Key Achievements:**
+- Designed and developed key CRM functionalities, improving customer management and business operations.
+- Conducted system analysis to ensure the CRM system met Hyundai’s specific requirements.
+- Collaborated with stakeholders to refine system features, aligning them with business goals.
+
+---
+
+### Hoang Linh Real Estate Management System
+
+**Role:** Business Analysis Team Leader  
+**Timeline:** 02/2007 - 12/2007  
+**Objective:** Developed a web application to manage property and land information, providing real-time updates
+
+### Project: Building Hoa Sen University ERP System with Oracle Enterprise Campus Solution 9.0
+- **Duration:** Oct 2010 - Sep 2013
+- **Project Description:** Conducted fit-gap analysis, deployment, and development of add-in functionalities for the Hoa Sen Campus solution. Focused on student and instructor management, including Student Enrollment, Student Planner, and Batch Term Activation. The project connected all 5 remote HSU campuses via an enterprise management portal, enabling instructors, operational departments, managing boards, and students to access and process various business procedures.
+- **Technology Stack:** Oracle Peoplesoft Enterprise 9.1, Oracle Web Logic, Oracle PeopleTools 8.51, Oracle Application Designer, Data Mover
+- **Position:** Business Analyst, Functional Administrator, Database Developer
+- **Responsibilities:**
+  - Defined and assigned tasks for BA project group members
+  - Managed the quality of deliverables from team members
+  - Conducted stakeholder interviews to gather requirements
+  - Analyzed business rules and processes
+  - Designed interfaces and developed the database
+  - Wrote SQL scripts and built BI Publisher reports
+  - Provided client support and system assistance
+  - Conducted final QA of software deliveries
+
+---
+
+### Project: Hyundai Customer Relationship Management
+- **Duration:** Sep 2007 - Jan 2008
+- **Project Description:** Developed a CRM web application for Hyundai Corporation to manage customers, prospects, leads, accounts, opportunities, and cases.
+- **Technology Stack:** Structure Analysis (Merise: DFD, ERD), MS Visio, ASP.NET, MySQL, HTML, CSS, Photoshop
+- **Position:** Business Analyst
+- **Responsibilities:**
+  - Conducted customer interviews to gather requirements
+  - Analyzed business rules and processes
+  - Designed interfaces and databases
+  - Provided client support and system assistance
+  - Conducted final QA of software deliveries
+
+---
+
+### Project: Hoang Linh Real Estate Management
+- **Duration:** Feb 2007 - Dec 2007
+- **Project Description:** Developed a web application for Hoang Linh to manage property and land information, functioning as a real estate stock exchange, providing visual interface updates.
+- **Technology Stack:** Structured Analysis (Merise: DFD, ERD), MS Visio, Java, JSP, Servlet, Bean, iReport, MySQL
+- **Position:** Business Analysis Team Leader
+- **Responsibilities:**
+  - Defined and assigned tasks for BA project group members
+  - Managed the quality of team deliverables
+  - Conducted customer interviews to gather requirements
+  - Analyzed business rules and processes
+  - Designed interfaces and databases
+  - Provided client support and system assistance
+  - Conducted final QA of software deliveries
+
+---
+
+### Project: Fournier Doctor Information System
+- **Duration:** Mar 2007 - Jun 2007
+- **Project Description:** Developed a WinForms application to manage patient and doctor information.
+- **Technology Stack:** UML, C#, MySQL
+- **Position:** Business Analyst
+- **Responsibilities:**
+  - Conducted customer interviews to gather requirements
+  - Analyzed business rules and processes
+  - Designed interfaces and databases
+  - Provided client support and system assistance
+  - Conducted final QA of software deliveries
