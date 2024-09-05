@@ -47,7 +47,7 @@
 - Transitioned the traditional data warehouse to a dynamic data lakehouse using Azure SQL Database, Azure Synapse Analytics, and Azure Data Lake Gen2.
 - Utilized Azure Databricks for complex data transformations, significantly improving processing speed and efficiency.
 
-
+---
 ### International Education Data Platform Modernization
 
 **Role:** Senior Software Engineer  
