@@ -35,7 +35,7 @@
 **Role:** Senior Software Engineer  
 **Timeline:** 18/04/2022 - 31/03/2023  
 **Objective:** Enhanced data management and reporting systems for a healthcare staffing agency, optimizing operational efficiency, data accessibility, and system reliability.  
-**Technologies:** SQL Server, MySQL, Data Warehouse/ETL, SSIS, Power BI, Azure DevOps, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Gen2, Azure Databricks
+**Technologies:** SQL Server, MySQL, Data Warehouse/ETL, SSIS, Power BI, Azure DevOps, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Gen2
 
 **Key Achievements:**
 - Developed and optimized advanced ETL processes using SSIS and SQL Server, resulting in improved data accuracy and processing efficiency.
